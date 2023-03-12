@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/liamhendricks/repos/SDL-test/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SDL-test.dir/main.cpp.o -c /home/liamhendricks/repos/SDL-test/main.cpp",
+  "file": "/home/liamhendricks/repos/SDL-test/main.cpp",
+  "output": "CMakeFiles/SDL-test.dir/main.cpp.o"
+}
+]
